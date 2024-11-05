@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Using GoDaddy POS System | JP Towing and Storage Ltd</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>JP Towing and Storage Ltd</h1>
+        <h2>Guide to Using GoDaddy POS System</h2>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#introduction">Introduction</a></li>
+            <li><a href="#steps">Steps to Use GoDaddy POS</a></li>
+            <li><a href="#support">Support</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="introduction">
+            <h2>Introduction</h2>
+            <p>The GoDaddy POS system provides an efficient way for businesses like JP Towing and Storage Ltd to manage sales and transactions. This guide will walk you through the steps to effectively use the system.</p>
+        </section>
+
+        <section id="steps">
+            <h2>Steps to Use GoDaddy POS</h2>
+            <ol>
+                <li>
+                    <h3>Step 1: Set Up Your Account</h3>
+                    <p>Visit the GoDaddy website and create an account. Choose the POS system plan that fits your business needs.</p>
+                </li>
+                <li>
+                    <h3>Step 2: Download the GoDaddy POS App</h3>
+                    <p>Download the GoDaddy POS app from the App Store or Google Play Store on your device.</p>
+                </li>
+                <li>
+                    <h3>Step 3: Connect Your Hardware</h3>
+                    <p>Connect your card reader, barcode scanner, and other necessary hardware to your device as per the instructions provided.</p>
+                </li>
+                <li>
+                    <h3>Step 4: Configure Your Settings</h3>
+                    <p>Log in to the app and configure your settings, including payment methods, tax rates, and inventory.</p>
+                </li>
+                <li>
+                    <h3>Step 5: Add Products and Services</h3>
+                    <p>Add your products and services to the system, ensuring to include prices and descriptions.</p>
+                </li>
+                <li>
+                    <h3>Step 6: Process Transactions</h3>
+                    <p>To process a sale, select the items being purchased, accept payment, and send receipts to your customers.</p>
+                </li>
+                <li>
+                    <h3>Step 7: Review Sales Reports</h3>
+                    <p>Use the reporting features to review sales data, track inventory levels, and analyze your business performance.</p>
+                </li>
+            </ol>
+        </section>
+
+        <section id="support">
+            <h2>Support</h2>
+            <p>If you need assistance while using the GoDaddy POS system, contact GoDaddy's customer support or refer to their online resources for troubleshooting and FAQs.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 JP Towing and Storage Ltd. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
